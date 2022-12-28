@@ -1,3 +1,3 @@
 # GitCourse
 for zero web school
-##notes
+## notes
